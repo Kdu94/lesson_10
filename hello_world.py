@@ -3,3 +3,6 @@ def hello_world():
 
 def sum_numbers(a, b):
     return a + b
+
+def mul(a, b):
+    return a*b
