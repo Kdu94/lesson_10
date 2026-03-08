@@ -15,3 +15,6 @@ def multiply_numbers(a,b):
 
 def hello_world():
     print("Hello world")
+
+def hello_world():
+    print("Hello world")
